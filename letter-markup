@@ -34,7 +34,6 @@
       }
     </style>
   </head>
-  <body>
 Dr. Eleanor Gaye
 Awesome Science faculty
 University of Awesome
@@ -49,7 +48,7 @@ Miss Eileen Dover
 4321 Cliff Top Edge
 Dover, CT9 XXX
 UK
-
+<body>
 
 Re: Eileen Dover university application
 
@@ -98,6 +97,6 @@ Yours sincerely,
 Dr Eleanor Gaye
 
 University of Awesome motto: "Be awesome to each other." -- Bill S Preston, Esq
-  </body>
+</body>
 </html>
   
